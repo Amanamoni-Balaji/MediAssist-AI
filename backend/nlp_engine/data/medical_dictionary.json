@@ -1,0 +1,35 @@
+{
+  "symptoms": [
+    "headache", "fever", "chills", "cough", "shortness of breath", "chest pain", "chest tightness",
+    "wheezing", "fatigue", "tiredness", "exhaustion", "weakness", "dizziness", "lightheadedness",
+    "nausea", "vomiting", "sore throat", "runny nose", "stuffy nose", "nasal congestion",
+    "sneezing", "dark urine", "dry mouth", "excessive thirst", "frequent urination", "increased hunger",
+    "weight loss", "weight gain", "heartburn", "acid reflux", "burping", "bloating", "indigestion",
+    "swallowing difficulty", "hoarseness", "cold hands", "pale skin", "brittle nails", "joint pain",
+    "joint stiffness", "back pain", "lower back pain", "muscle aches", "myalgia", "palpitations",
+    "rapid heartbeat", "snoring", "insomnia", "sleeplessness", "sleep difficulty", "trouble sleeping",
+    "broken sleep", "anxiety", "nervousness", "sadness", "irritability", "brain fog", "neck stiffness",
+    "photophobia", "phonophobia", "aura", "swollen ankles", "edema", "sweating", "blurred vision",
+    "stomach pain", "abdominal pain", "tummy ache", "belly pain", "stomach cramps", "constipation",
+    "diarrhea", "gas", "burning stomach", "low energy", "hair loss", "cold intolerance", "heat intolerance"
+  ],
+  "conditions": [
+    "diabetes", "type 2 diabetes", "hypertension", "high blood pressure", "asthma",
+    "common cold", "cold", "flu", "influenza", "fever", "migraine", "tension headache",
+    "headache", "dehydration", "anemia", "iron deficiency", "iron-deficiency anemia", "hemoglobin deficiency",
+    "obesity", "overweight", "heart disease", "cardiovascular disease", "coronary artery disease", "heart attack",
+    "acid reflux", "gerd", "gastritis", "depression", "anxiety disorder", "stress",
+    "insomnia", "sleep disorder", "thyroid", "hypothyroidism", "hyperthyroidism",
+    "arthritis", "osteoarthritis", "rheumatoid arthritis", "chronic fatigue", "kidney disease",
+    "fatty liver", "pcos", "polycystic ovary syndrome", "pharyngitis", "allergic rhinitis"
+  ],
+  "body_parts": [
+    "head", "chest", "heart", "lungs", "throat", "neck", "stomach", "abdomen", "belly", "tummy", "gut",
+    "back", "spine", "eyes", "ears", "nose", "arms", "legs", "joints", "skin", "feet", "hands",
+    "kidney", "kidneys", "liver", "thyroid", "blood", "muscles", "brain", "uterus", "ovaries"
+  ],
+  "severity_markers": [
+    "mild", "moderate", "severe", "extreme", "acute", "chronic", "crushing", "throbbing",
+    "sharp", "dull", "burning", "constant", "intermittent", "unbearable", "sudden", "persistent"
+  ]
+}
